@@ -1,5 +1,7 @@
 # youtube-realtime
 
+[![License: MIT](https://img.shields.io/github/license/SisoSol/youtube-realtime?style=flat-square&color=blue)](LICENSE) [![Last commit](https://img.shields.io/github/last-commit/SisoSol/youtube-realtime?style=flat-square)](https://github.com/SisoSol/youtube-realtime/commits) [![CI](https://github.com/SisoSol/youtube-realtime/actions/workflows/ci.yml/badge.svg)](https://github.com/SisoSol/youtube-realtime/actions/workflows/ci.yml) [![Built for 1322.io](https://img.shields.io/badge/built%20for-1322.io-3b82f6?style=flat-square)](https://1322.io) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/SisoSol/youtube-realtime/pulls)
+
 Real-time **YouTube** channel monitor over **WebSocket**. Get new uploads, Shorts
 and video deletions for the channels you track the moment they publish, without
 the YouTube Data API quota or polling loops.
